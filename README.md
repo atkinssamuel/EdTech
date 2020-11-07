@@ -8,12 +8,10 @@
 ## Part 4: Data Science Education EdTech Effort
 
 ## Roles:
-### Samuel Atkins
+### Samuel Atkins & Marie Ishimwe: Part 1 
+- November 10
 
-### Marie Ishimwe
+### Dichia Zhang & Zhang Yifan Zhang: Part 2 
+- November 10 - 16
 
 ### Rohith Sothilingam
-
-### Dichia Zhang
-
-### Zhang Yifan Zhang
